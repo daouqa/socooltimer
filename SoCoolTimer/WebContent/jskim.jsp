@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-현수...킴.
+현수...킴...이제는 잘됩니다!
 </body>
 </html>
